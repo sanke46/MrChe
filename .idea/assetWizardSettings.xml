@@ -15,9 +15,9 @@
                           <map>
                             <entry key="assetSourceType" value="FILE" />
                             <entry key="height" value="512" />
-                            <entry key="outputName" value="ic_salad" />
+                            <entry key="outputName" value="ic_shopping_cart" />
                             <entry key="overrideSize" value="true" />
-                            <entry key="sourceFile" value="$USER_HOME$/Downloads/salad.svg" />
+                            <entry key="sourceFile" value="$USER_HOME$/Downloads/shopping-cart.svg" />
                             <entry key="width" value="512" />
                           </map>
                         </option>

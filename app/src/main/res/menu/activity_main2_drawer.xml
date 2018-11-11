@@ -6,19 +6,19 @@
     <group android:checkableBehavior="single">
         <item
                 android:id="@+id/nav_camera"
-                android:icon="@drawable/ic_menu_camera"
+                android:icon="@drawable/ic_catalog"
                 android:title="Весь асортимент"/>
         <item
                 android:id="@+id/nav_gallery"
-                android:icon="@drawable/ic_menu_gallery"
+                android:icon="@drawable/ic_shopping_cart"
                 android:title="Корзина"/>
         <item
                 android:id="@+id/nav_slideshow"
-                android:icon="@drawable/ic_menu_slideshow"
+                android:icon="@drawable/ic_profile"
                 android:title="Личные данные"/>
         <item
                 android:id="@+id/nav_manage"
-                android:icon="@drawable/ic_menu_manage"
+                android:icon="@drawable/ic_bill"
                 android:title="История покупок"/>
     </group>
 </menu>
